@@ -4,5 +4,6 @@ dependencies:
   - pandas
   - numpy
   - scipy
+  - matplotlib
   - pip:
     - mmcif-pdbx
