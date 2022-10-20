@@ -1,0 +1,8 @@
+name: fr3d-test-install
+dependencies:
+  - python=3.8 
+  - pandas
+  - numpy
+  - scipy
+  - pip:
+    - mmcif-pdbx
